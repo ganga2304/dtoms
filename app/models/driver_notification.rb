@@ -1,0 +1,3 @@
+class DriverNotification < Notification
+    
+end

@@ -1,0 +1,3 @@
+class OrderNotification < Notification
+    
+end
